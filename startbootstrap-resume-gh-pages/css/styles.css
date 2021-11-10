@@ -9798,7 +9798,7 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
-.text-primary {
+.title-primary {
   color: #FFAE47 !important;
 }
 
@@ -10128,7 +10128,6 @@ section.resume-section .resume-section-content {
 @media (min-width: 992px) {
   section.resume-section {
     padding-left: 3rem;
-    padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
@@ -10136,4 +10135,9 @@ section.resume-section .resume-section-content {
 
 .company-logo {
     text-align: right;
+}
+
+.body-logo {
+  text-align: right;
+  padding-left: 2rem;
 }
